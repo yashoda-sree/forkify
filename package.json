@@ -17,5 +17,8 @@
     "core-js": "^3.13.0",
     "fractional": "^1.0.0",
     "regenerator-runtime": "^0.13.7"
+  },
+  "config.node": {
+    "fs": "empty"
   }
 }
